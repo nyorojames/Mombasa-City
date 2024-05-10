@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #dfdbcb;
+  font-family: "Murecho", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.header {
+  background-image: url("images/image 6.jpg");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding-top: 50px;
+  height: 400px;
+}
+
+#title,
+#title-description {
+  color: white;
+  font-size: 36px;
+  text-shadow: 0px 0px 6px black;
+}
+
+.activities {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+img:hover {
+  width: 200px;
+  height: 200px;
+}
+
+p {
+  line-height: 1.5;
+}
