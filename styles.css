@@ -52,4 +52,5 @@ img:hover {
   background: #ddebf8;
   color: #2b2839;
 }
-
+.avatar {
+  width: 150px;
