@@ -42,6 +42,14 @@ img:hover {
   height: 200px;
 }
 
-p {
-  line-height: 1.5;
+.footer {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: #ddebf8;
+  color: #2b2839;
 }
+
